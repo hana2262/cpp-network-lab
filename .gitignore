@@ -1,0 +1,16 @@
+# 本地协作与学习资料
+/AGENTS.md
+/docs/standards/
+/.local/
+
+# 构建产物与本机配置
+/build/
+/build-*/
+/cmake-build-*/
+/compile_commands.json
+/CMakeUserPresets.json
+/.vscode/
+/.idea/
+
+# 安装的依赖
+node_modules/
